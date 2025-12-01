@@ -1,0 +1,7 @@
+train: C:/Users/charoensupthawornt/Work/Securade.ai/hub/images/train/Model_1
+val: C:/Users/charoensupthawornt/Work/Securade.ai/hub/images/val/Model_1
+test: /images/test
+cls: 1.0
+obj: 2.0
+nc: 3
+names: ['Garment Holder','Person', 'Sewing machine']

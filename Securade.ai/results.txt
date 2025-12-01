@@ -1,0 +1,278 @@
+
+
+
+===== Results for video: VNGPCAM017-20230317-224906.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.6796622479748265  
+Sewing machine       0.3243427330427358  
+Garment Holder       None                
+----------------------------------------
+
+===== Results for video: VNGPCAM028-20230317-224258.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.7813235124716392  
+Sewing machine       0.6151962419160567  
+Garment Holder       0.6214811267630423  
+----------------------------------------
+
+===== Results for video: VNGPCAM026-20250918-183942.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               None                
+Sewing machine       None                
+Garment Holder       None                
+----------------------------------------
+
+===== Results for video: reolink qtz-20251005-054520.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               None                
+Sewing machine       0.6540900846872987  
+Garment Holder       0.4299486770503449  
+----------------------------------------
+Model used: best5Try.pt
+
+===== Results for video: VNGPCAM017-20230317-224906.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.4221581788185765  
+Sewing machine       None                
+Garment Holder       0.33030808220307034 
+----------------------------------------
+Model used: best.pt
+
+===== Results for video: VNGPCAM022-20251007-100954.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               None                
+Sewing machine       None                
+Garment Holder       None                
+----------------------------------------
+Model used: best.pt
+
+===== Results for video: VNGPCAM026-20251003-155946.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.3030960096253289  
+Sewing machine       None                
+Garment Holder       None                
+----------------------------------------
+Model used: best.pt
+
+===== Results for video: VNGPCAM028-20230317-224258.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.8023517145076541  
+Sewing machine       0.2841841467591219  
+Garment Holder       0.715039800619507   
+----------------------------------------
+Model used: best.pt
+
+===== Results for video: reolink qtz-20251005-054520.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               None                
+Sewing machine       0.45114420754415496 
+Garment Holder       0.35848195729707544 
+----------------------------------------
+Model used: best.pt
+
+===== Results for video: VNGPCAM017-20230317-224906.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.8994915028697549  
+Sewing machine       0.8680117881106494  
+Garment Holder       0.3576740324497223  
+----------------------------------------
+Model used: best.pt
+
+===== Results for video: VNGPCAM003-20251007-132953.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.8711678849787433  
+Sewing machine       0.8795989775628495  
+Garment Holder       0.6367480424229767  
+----------------------------------------
+Model used: best.pt
+
+===== Results for video: VNGPCAM019-20251007-143940.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.9213630653462517  
+Sewing machine       0.9215034886946638  
+Garment Holder       0.728138947280598   
+----------------------------------------
+Model used: best.pt
+
+===== Results for video: reolink qtz-20251005-054520.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               None                
+Sewing machine       0.40251135240450486 
+Garment Holder       0.4535641120204443  
+----------------------------------------
+Model used: best.pt
+
+===== Results for video: VNGPCAM005-20251007-142949.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.6525638560423213  
+Sewing machine       0.3945367152113027  
+Garment Holder       0.37681540077124587 
+----------------------------------------
+Model used: best.pt
+
+===== Results for video: VNGPCAM028-20230317-224258.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.7906411349077951  
+Sewing machine       0.31240054183647414 
+Garment Holder       0.31822480085705007 
+----------------------------------------
+Model used: best.pt
+
+===== Results for video: VNGPCAM001-20251016-094559.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.472372551166003   
+Sewing machine       0.4007108714431524  
+Garment Holder       0.45079432913611606 
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM002-20251016-093952.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.4683377174460518  
+Sewing machine       0.34155233945957447 
+Garment Holder       0.5116193780553675  
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM003-20230318-183947.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.8394336762712963  
+Sewing machine       0.8241900871448568  
+Garment Holder       0.2673670388104623  
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM004-20251016-093955.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.8267265055714591  
+Sewing machine       0.3847931139998966  
+Garment Holder       0.381300378929485   
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM005-20251016-092951.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.6203770964436157  
+Sewing machine       0.5073730610208605  
+Garment Holder       0.6068093672847937  
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM013-20251016-085952.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.7532852359258276  
+Sewing machine       0.3640435595344342  
+Garment Holder       0.27885454561975265 
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM017-20230318-225911.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.8693152347476436  
+Sewing machine       0.5631965692274298  
+Garment Holder       None                
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM019-20251016-092953.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.6223161243589739  
+Sewing machine       0.7411132699809196  
+Garment Holder       0.33975870174817946 
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM022-20251016-091954.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.7341874954410088  
+Sewing machine       0.6560283604979621  
+Garment Holder       0.4415705997368385  
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM024-20251016-094954.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.5716822124161148  
+Sewing machine       0.5146825854123439  
+Garment Holder       0.4531395643572879  
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM026-20251016-091953.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.5337469433888911  
+Sewing machine       0.5979095901758382  
+Garment Holder       None                
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM027-20251016-092952.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.6011021463445327  
+Sewing machine       0.29166572690010073 
+Garment Holder       0.3088990088020052  
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM028-20230318-222205.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.8265784721358146  
+Sewing machine       0.7318803591891305  
+Garment Holder       0.6543130635260949  
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM029-20251016-090954.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.618572147809875   
+Sewing machine       0.34467215730310585 
+Garment Holder       0.5871554346242432  
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM030-20230318-183949.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.7496330425744157  
+Sewing machine       0.8273750459655257  
+Garment Holder       0.8592455935773418  
+----------------------------------------
+Model used: best10Try.pt
+
+===== Results for video: VNGPCAM031-20251016-085953.mp4 =====
+Class                Average Confidence Score
+----------------------------------------
+Person               0.5246943663554015  
+Sewing machine       0.3919453564123984  
+Garment Holder       None                
+----------------------------------------
+Model used: best10Try.pt

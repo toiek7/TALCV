@@ -1,0 +1,5 @@
+train: C:/Users/charoensupthawornt/Work/Securade.ai/hub/images/train
+val: C:/Users/charoensupthawornt/Work/Securade.ai/hub/images/val
+test: /images/test
+nc: 2
+names: ['Person', 'Sewing machine']
