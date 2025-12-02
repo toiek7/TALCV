@@ -1,0 +1,15 @@
+torch
+torchvision
+opencv-python
+numpy
+pillow
+matplotlib
+scipy
+requests
+tqdm
+pandas
+os
+cv2
+streamlit
+ultralytics
+opencv-python
