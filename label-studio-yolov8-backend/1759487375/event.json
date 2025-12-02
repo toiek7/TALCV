@@ -1,0 +1,334 @@
+{
+  "event": "ANNOTATION_CREATED",
+  "job_id": "1759487375",
+  "data": {
+    "annotation": {
+      "id": 112,
+      "result": [
+        {
+          "original_width": 1036,
+          "original_height": 585,
+          "image_rotation": 0,
+          "value": {
+            "x": 37.124392240664214,
+            "y": 37.99049312232906,
+            "width": 15.097752869359315,
+            "height": 57.16817741720085,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Sewing machine"
+            ]
+          },
+          "id": "0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction",
+          "score": 0.9406753778457642
+        },
+        {
+          "original_width": 1036,
+          "original_height": 585,
+          "image_rotation": 0,
+          "value": {
+            "x": 46.56975941308217,
+            "y": 10.725943410498465,
+            "width": 8.53412878559363,
+            "height": 25.07320501865485,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Sewing machine"
+            ]
+          },
+          "id": "1",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction",
+          "score": 0.9298717975616455
+        },
+        {
+          "original_width": 1036,
+          "original_height": 585,
+          "image_rotation": 0,
+          "value": {
+            "x": 0.11200428469300731,
+            "y": 37.441886184561966,
+            "width": 11.142628878700227,
+            "height": 26.25988560864049,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Sewing machine"
+            ]
+          },
+          "id": "2",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction",
+          "score": 0.8047906160354614
+        },
+        {
+          "original_width": 1036,
+          "original_height": 585,
+          "image_rotation": 0,
+          "value": {
+            "x": 49.841190765263036,
+            "y": 1.1242766258044121,
+            "width": 6.441147262985641,
+            "height": 12.817888911972696,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Sewing machine"
+            ]
+          },
+          "id": "3",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction",
+          "score": 0.7819369435310364
+        },
+        {
+          "original_width": 1036,
+          "original_height": 585,
+          "image_rotation": 0,
+          "value": {
+            "x": 57.73159896084701,
+            "y": 1.743639595488198,
+            "width": 7.162345974601834,
+            "height": 8.582695039928469,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Garment Holder"
+            ]
+          },
+          "id": "4",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction",
+          "score": 0.6396032571792603
+        },
+        {
+          "original_width": 1036,
+          "original_height": 585,
+          "image_rotation": 0,
+          "value": {
+            "x": 81.97703711314551,
+            "y": 0.950026389880058,
+            "width": 5.55313287094293,
+            "height": 9.398966243124415,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Sewing machine"
+            ]
+          },
+          "id": "5",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction",
+          "score": 0.5158346891403198
+        },
+        {
+          "original_width": 1036,
+          "original_height": 585,
+          "image_rotation": 0,
+          "value": {
+            "x": 61.94250629675434,
+            "y": 18.327147654997997,
+            "width": 7.303751941813465,
+            "height": 10.556975796691374,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Garment Holder"
+            ]
+          },
+          "id": "6",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction",
+          "score": 0.4591837227344513
+        },
+        {
+          "original_width": 1036,
+          "original_height": 585,
+          "image_rotation": 0,
+          "value": {
+            "x": 58.712138172282216,
+            "y": 41.66222466362847,
+            "width": 16.096520147728643,
+            "height": 15.07640610393296,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Garment Holder"
+            ]
+          },
+          "id": "7",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction",
+          "score": 0.34257280826568604
+        },
+        {
+          "original_width": 1036,
+          "original_height": 585,
+          "image_rotation": 0,
+          "value": {
+            "x": 57.53527902728342,
+            "y": 2.212366446470603,
+            "width": 7.956380365437983,
+            "height": 10.63008773021209,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Garment Holder"
+            ]
+          },
+          "id": "8",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction",
+          "score": 0.3423711359500885
+        }
+      ],
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2025-10-03T10:29:35.765184Z",
+      "updated_at": "2025-10-03T10:29:35.765184Z",
+      "draft_created_at": null,
+      "lead_time": 12.866,
+      "prediction": {},
+      "result_count": 9,
+      "unique_id": "e8084b06-dd0e-4bb9-8505-51cef395d3fe",
+      "import_id": null,
+      "last_action": null,
+      "bulk_created": false,
+      "task": 118,
+      "project": 5,
+      "completed_by": 1,
+      "updated_by": 1,
+      "parent_prediction": 77,
+      "parent_annotation": null,
+      "last_created_by": null
+    },
+    "project": {
+      "id": 5,
+      "task_number": 32,
+      "finished_task_number": 31,
+      "total_predictions_number": 31,
+      "total_annotations_number": 31,
+      "num_tasks_with_annotations": 31,
+      "useful_annotation_number": 31,
+      "ground_truth_number": 0,
+      "skipped_annotations_number": 0,
+      "title": "Auto label TAL",
+      "description": "",
+      "label_config": "<View>\n<Image name=\"image\" value=\"$image\"/>\n<RectangleLabels name=\"label\" toName=\"image\">\n<Label value=\"Garment Holder\" background=\"#FFA39E\"/>\n<Label value=\"Person\" background=\"#D4380D\"/>\n<Label value=\"Sewing machine\" background=\"#FFA39E\"/>\n</RectangleLabels>\n</View>",
+      "parsed_label_config": {
+        "label": {
+          "type": "RectangleLabels",
+          "to_name": [
+            "image"
+          ],
+          "inputs": [
+            {
+              "type": "Image",
+              "valueType": null,
+              "value": "image"
+            }
+          ],
+          "labels": [
+            "Garment Holder",
+            "Person",
+            "Sewing machine"
+          ],
+          "labels_attrs": {
+            "Garment Holder": {
+              "value": "Garment Holder",
+              "background": "#FFA39E"
+            },
+            "Person": {
+              "value": "Person",
+              "background": "#D4380D"
+            },
+            "Sewing machine": {
+              "value": "Sewing machine",
+              "background": "#FFA39E"
+            }
+          }
+        }
+      },
+      "label_config_hash": 6762938618284279228,
+      "expert_instruction": "",
+      "show_instruction": false,
+      "show_skip_button": true,
+      "enable_empty_annotation": true,
+      "reveal_preannotations_interactively": false,
+      "show_annotation_history": false,
+      "show_collab_predictions": true,
+      "evaluate_predictions_automatically": false,
+      "token": "TCW53xYXBJwIOxKyTeBFe4zi4tijOq5QPtRWgbeu",
+      "result_count": 0,
+      "color": "#FFFFFF",
+      "maximum_annotations": 1,
+      "min_annotations_to_start_training": 0,
+      "control_weights": {
+        "label": {
+          "overall": 1.0,
+          "type": "RectangleLabels",
+          "labels": {
+            "Garment Holder": 1.0,
+            "Person": 1.0,
+            "Sewing machine": 1.0
+          }
+        }
+      },
+      "model_version": "Auto Labeling Best",
+      "data_types": {
+        "image": "Image"
+      },
+      "is_draft": false,
+      "is_published": false,
+      "created_at": "2025-10-01T09:20:52.236743Z",
+      "updated_at": "2025-10-01T09:22:06.876685Z",
+      "sampling": "Sequential sampling",
+      "skip_queue": "REQUEUE_FOR_OTHERS",
+      "show_ground_truth_first": false,
+      "show_overlap_first": false,
+      "overlap_cohort_percentage": 100,
+      "task_data_login": null,
+      "task_data_password": null,
+      "pinned_at": null,
+      "custom_task_lock_ttl": null,
+      "search_vector": null,
+      "organization": 1,
+      "created_by": 1
+    },
+    "task": {
+      "id": 118,
+      "data": {
+        "image": "/data/upload/5/71cb9f87-Screenshot_2025-09-29_143602.jpg"
+      },
+      "meta": {},
+      "created_at": "2025-10-02T06:24:47.647757Z",
+      "updated_at": "2025-10-03T10:29:35.864825Z",
+      "is_labeled": true,
+      "overlap": 1,
+      "inner_id": 31,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 1,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 5,
+      "updated_by": 1,
+      "file_upload": 193,
+      "comment_authors": []
+    }
+  }
+}

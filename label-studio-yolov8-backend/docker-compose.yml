@@ -1,0 +1,35 @@
+version: "3.8"
+
+services:
+  redis:
+    image: redis:alpine
+    container_name: redis
+    hostname: redis
+    volumes:
+      - "./data/redis:/data"
+    expose:
+      - 6379
+  server:
+    container_name: label-studio-ml
+    build: .
+    env_file:
+      - .env
+    environment:
+      - MODEL_DIR=/data/models
+      - RQ_QUEUE_NAME=default
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - LABEL_STUDIO_USE_REDIS=true
+      - LABEL_STUDIO_BASEURL="http://localhost:8080"
+      - LABEL_STUDIO_API_TOKEN=.eJxVT8uOhCAQ_BfOSrAFkTnufb_BNHSj7BiYiCb7yP776mYuc6xHV3X9iCORuAk2Y4-BQ4sAsdVGc-vI6daTZxXGzoGxohFlmzGnb9xTydPjLm5dI1as-7SWOeUTWuOg10o5acC4Tg2NmPDYl-movE3_VZ144TyGO-dLoA_Mc5Gh5H1LXl4W-VSrfC_E69vT-xKwYF3O6_N5ABzQE2sbYyTw1mLwYHtC9AAq8gBRkdaROkDCiP04ngU46N76K7Ryrdcy_nyk7UvczgmglFS_f7o9Xjo:1v3mNp:K6Wfb2BrcinXVYnXNvTAdoHt-8IxgyO0SjjxVqG7pus
+    ports:
+      - 9090:9090
+    depends_on:
+      - redis
+    links:
+      - redis
+    volumes:
+      - "./data/server:/data"
+      - "./logs:/tmp"
+    # tty: true
+# 

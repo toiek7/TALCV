@@ -1,0 +1,207 @@
+{
+  "event": "ANNOTATION_CREATED",
+  "job_id": "1759486999",
+  "data": {
+    "annotation": {
+      "id": 103,
+      "result": [
+        {
+          "original_width": 1057,
+          "original_height": 565,
+          "image_rotation": 0,
+          "value": {
+            "x": 62.761764021109265,
+            "y": 0.8569357036489301,
+            "width": 37.15618209333609,
+            "height": 63.19425928909167,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Person"
+            ]
+          },
+          "id": "0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction",
+          "score": 0.3506711721420288
+        },
+        {
+          "original_width": 1057,
+          "original_height": 565,
+          "image_rotation": 0,
+          "value": {
+            "x": 73.7505058353536,
+            "y": 0.8384521450616618,
+            "width": 25.858476507065987,
+            "height": 85.53087968741899,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Person"
+            ]
+          },
+          "id": "1",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction",
+          "score": 0.29172810912132263
+        },
+        {
+          "original_width": 1057,
+          "original_height": 565,
+          "image_rotation": 0,
+          "value": {
+            "x": 31.20768869073584,
+            "y": 1.1976047904191618,
+            "width": 15.043706343226514,
+            "height": 44.61077844311377,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Sewing machine"
+            ]
+          },
+          "id": "eQiRigcgxo",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        }
+      ],
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2025-10-03T10:23:18.859646Z",
+      "updated_at": "2025-10-03T10:23:18.859646Z",
+      "draft_created_at": null,
+      "lead_time": 7.941,
+      "prediction": {},
+      "result_count": 3,
+      "unique_id": "91c8a2da-dcf6-4794-8d4e-f5be389d40e7",
+      "import_id": null,
+      "last_action": null,
+      "bulk_created": false,
+      "task": 109,
+      "project": 5,
+      "completed_by": 1,
+      "updated_by": 1,
+      "parent_prediction": 54,
+      "parent_annotation": null,
+      "last_created_by": null
+    },
+    "project": {
+      "id": 5,
+      "task_number": 32,
+      "finished_task_number": 22,
+      "total_predictions_number": 22,
+      "total_annotations_number": 22,
+      "num_tasks_with_annotations": 22,
+      "useful_annotation_number": 22,
+      "ground_truth_number": 0,
+      "skipped_annotations_number": 0,
+      "title": "Auto label TAL",
+      "description": "",
+      "label_config": "<View>\n<Image name=\"image\" value=\"$image\"/>\n<RectangleLabels name=\"label\" toName=\"image\">\n<Label value=\"Garment Holder\" background=\"#FFA39E\"/>\n<Label value=\"Person\" background=\"#D4380D\"/>\n<Label value=\"Sewing machine\" background=\"#FFA39E\"/>\n</RectangleLabels>\n</View>",
+      "parsed_label_config": {
+        "label": {
+          "type": "RectangleLabels",
+          "to_name": [
+            "image"
+          ],
+          "inputs": [
+            {
+              "type": "Image",
+              "valueType": null,
+              "value": "image"
+            }
+          ],
+          "labels": [
+            "Garment Holder",
+            "Person",
+            "Sewing machine"
+          ],
+          "labels_attrs": {
+            "Garment Holder": {
+              "value": "Garment Holder",
+              "background": "#FFA39E"
+            },
+            "Person": {
+              "value": "Person",
+              "background": "#D4380D"
+            },
+            "Sewing machine": {
+              "value": "Sewing machine",
+              "background": "#FFA39E"
+            }
+          }
+        }
+      },
+      "label_config_hash": 6762938618284279228,
+      "expert_instruction": "",
+      "show_instruction": false,
+      "show_skip_button": true,
+      "enable_empty_annotation": true,
+      "reveal_preannotations_interactively": false,
+      "show_annotation_history": false,
+      "show_collab_predictions": true,
+      "evaluate_predictions_automatically": false,
+      "token": "TCW53xYXBJwIOxKyTeBFe4zi4tijOq5QPtRWgbeu",
+      "result_count": 0,
+      "color": "#FFFFFF",
+      "maximum_annotations": 1,
+      "min_annotations_to_start_training": 0,
+      "control_weights": {
+        "label": {
+          "overall": 1.0,
+          "type": "RectangleLabels",
+          "labels": {
+            "Garment Holder": 1.0,
+            "Person": 1.0,
+            "Sewing machine": 1.0
+          }
+        }
+      },
+      "model_version": "Auto Labeling Best",
+      "data_types": {
+        "image": "Image"
+      },
+      "is_draft": false,
+      "is_published": false,
+      "created_at": "2025-10-01T09:20:52.236743Z",
+      "updated_at": "2025-10-01T09:22:06.876685Z",
+      "sampling": "Sequential sampling",
+      "skip_queue": "REQUEUE_FOR_OTHERS",
+      "show_ground_truth_first": false,
+      "show_overlap_first": false,
+      "overlap_cohort_percentage": 100,
+      "task_data_login": null,
+      "task_data_password": null,
+      "pinned_at": null,
+      "custom_task_lock_ttl": null,
+      "search_vector": null,
+      "organization": 1,
+      "created_by": 1
+    },
+    "task": {
+      "id": 109,
+      "data": {
+        "image": "/data/upload/5/2c6c4a3e-Screenshot_2025-09-29_142805.jpg"
+      },
+      "meta": {},
+      "created_at": "2025-10-02T06:24:47.647757Z",
+      "updated_at": "2025-10-03T10:23:18.943701Z",
+      "is_labeled": true,
+      "overlap": 1,
+      "inner_id": 22,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 1,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 5,
+      "updated_by": 1,
+      "file_upload": 184,
+      "comment_authors": []
+    }
+  }
+}
